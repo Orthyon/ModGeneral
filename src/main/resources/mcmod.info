@@ -1,0 +1,16 @@
+[
+{
+  "modid": "orthyong",
+  "name": "Orthyon Général",
+  "description": "Mod général du serveur Orthyon.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Wonyu, GeoIII"],
+  "credits": "L'équipe de forge ainsi que d'Orthyon",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
